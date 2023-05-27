@@ -16,7 +16,9 @@ An ETL pipeline integrating MongoDb, Kafka and Spark.
 ## Images
 
 <p align="center">
-  <img src="https://github.com/Pranjal-Tripathi-01/Spark/blob/main/Screenshot%20from%202023-05-07%2013-36-18.png" title="Kafka">
+  <img src="https://github.com/Pranjal-Tripathi-01/Spark/blob/main/Screenshot%20from%202023-05-07%2013-20-16.png"  title="kafka producer"> 
+  <img src="https://github.com/Pranjal-Tripathi-01/Spark/blob/main/Screenshot%20from%202023-05-07%2013-20-27.png"  title="kafka">  
   <img src="https://github.com/Pranjal-Tripathi-01/Spark/blob/main/Screenshot%20from%202023-05-07%2013-22-32.png"  title="Kafka Consumer">
-  <img src="https://github.com/Pranjal-Tripathi-01/Kafka/blob/main/Screenshot%20from%202023-04-19%2021-42-44.png"  title="Cassandra">  
+  <img src="https://github.com/Pranjal-Tripathi-01/Spark/blob/main/Screenshot%20from%202023-05-07%2013-36-18.png" title="MongoDB">
+
 </p>
